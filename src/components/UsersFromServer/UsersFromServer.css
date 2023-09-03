@@ -1,0 +1,18 @@
+.users-cards-div {
+  display: flex;
+  flex-wrap: wrap;
+}
+.user-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid white;
+  border-radius: 25px;
+  font-family: sans-serif;
+  width: 250px;
+  padding: 5px;
+  margin: 10px;
+  min-height: 300px;
+}
+.to-do-list {
+  margin-top: 20px;
+}
